@@ -1,4 +1,4 @@
-OpenCV
+opencv-contrib-python-headless
 numpy
 pandas
 matplot
