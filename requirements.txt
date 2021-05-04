@@ -2,6 +2,7 @@ opencv-contrib-python-headless
 numpy
 pandas
 matplot
-csv
+gunicorn
+uvicorn
 pytesseract
 
